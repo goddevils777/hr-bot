@@ -1,0 +1,41 @@
+{
+  "candidates": {
+    "7649376784": {
+      "step": "done",
+      "chatId": 7649376784,
+      "updatedAt": "2025-10-08T17:57:57.199Z",
+      "name": "Игорь",
+      "age": "21",
+      "gender": "Мужской",
+      "city": "Киев",
+      "employed": "Нет",
+      "motivation": "Командная работа и общение",
+      "failure": "Откладываю и возвращаюсь позже",
+      "sociability": "3",
+      "contacts": "Нет",
+      "reliability": "ввыв",
+      "workStyle": "Организовывать работу других",
+      "timeCommitment": "вывв",
+      "routine": "Предпочитаю часто менять задачи",
+      "planningStyle": "Импровизация",
+      "presentation": "выв",
+      "interviewTime": "Написать HR",
+      "username": "god_devils_666_777",
+      "phone": null
+    },
+    "7906272900": {
+      "step": "reliability",
+      "chatId": 7906272900,
+      "updatedAt": "2025-10-08T17:52:58.416Z",
+      "name": "Kok",
+      "age": "21",
+      "gender": "Женский",
+      "city": "Kyiv",
+      "employed": "Нет",
+      "motivation": "Достижения и признание",
+      "failure": "Пробую снова, пока не получится",
+      "sociability": "5",
+      "contacts": "Нет"
+    }
+  }
+}
